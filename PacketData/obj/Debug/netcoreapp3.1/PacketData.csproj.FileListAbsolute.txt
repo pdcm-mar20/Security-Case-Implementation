@@ -1,0 +1,10 @@
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\bin\Debug\netcoreapp3.1\PacketData.deps.json
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\bin\Debug\netcoreapp3.1\PacketData.dll
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\bin\Debug\netcoreapp3.1\PacketData.pdb
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\obj\Debug\netcoreapp3.1\PacketData.csproj.AssemblyReference.cache
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\obj\Debug\netcoreapp3.1\PacketData.GeneratedMSBuildEditorConfig.editorconfig
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\obj\Debug\netcoreapp3.1\PacketData.AssemblyInfoInputs.cache
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\obj\Debug\netcoreapp3.1\PacketData.AssemblyInfo.cs
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\obj\Debug\netcoreapp3.1\PacketData.csproj.CoreCompileInputs.cache
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\obj\Debug\netcoreapp3.1\PacketData.dll
+D:\PENS\Kelas 3\smt5\tugas\jarkom\week9\security-case-arilhr\security-case\PacketData\obj\Debug\netcoreapp3.1\PacketData.pdb
